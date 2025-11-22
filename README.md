@@ -106,9 +106,6 @@ Import: upload CSV file
 ### Calendar
 ![Calendar](screenshots/Calendar.png)
 
-### Add New Task
-![Add Task](screenshots/Add%20New%20Task%201.png)
-![Add Task](screenshots/Add%20New%20Task%202.png)
 
 ### Tasks
 ![Tasks](screenshots/Tasks.png)
@@ -116,8 +113,7 @@ Import: upload CSV file
 ### Filter Tasks
 ![Filter Task](screenshots/Filter%20Task.png)
 
-### Import Export Tasks 
-![Export and Import Task](screenshots/Export%20and%20Import%20Task%20CSV.png)
+
 
 
 
