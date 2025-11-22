@@ -1,10 +1,9 @@
-**Calendar Task Management System**
+### Calendar Task Management System
 
 A modern and responsive Calendar Task Management System built with PHP, MySQL, HTML, CSS, JavaScript (ES6) and styled using Tailwind CSS.
 Features real-time task updates with AJAX and a clean, intuitive UI.
 
-**Features
-Core Features**
+### Core Features
 
 1. Calendar View (Monthly with task indicators)
 
@@ -24,7 +23,7 @@ Core Features**
 
 9. Advanced Multi-Filter System
 
-**Tech Stack**
+### Tech Stack
 **Frontend**
 HTML
 CSS
@@ -40,7 +39,7 @@ MySQL (managed through phpMyAdmin)
 **Server**
 XAMPP (Apache + MySQL)
 
-**Setup Instructions**
+### Setup Instructions
 **1. Install XAMPP**
 Install and run XAMPP
 Start Apache + MySQL
@@ -76,7 +75,7 @@ Open the frontend using:
 http://localhost/calendar_tasks/client/
 Change folder name if needed.
 
-**Usage Guide**
+### Usage Guide
 **Add Task**
 Use the right sidebar form
 Choose task date
@@ -101,8 +100,7 @@ Click Apply Filters
 Export: download all tasks
 Import: upload CSV file
 
-**Screenshots**
-## 📸 Screenshots
+### Screenshots
 ### Calendar
 ![Calendar](screenshots/Calendar.png)
 
