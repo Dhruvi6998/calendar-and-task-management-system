@@ -28,7 +28,7 @@ Features real-time task updates with AJAX and a clean, intuitive UI.
 HTML
 CSS
 JavaScript (ES6)
-Tailwind CSS 3.x
+Tailwind CSS
 
 **Backend**
 PHP 
