@@ -100,3 +100,8 @@ Click Apply Filters
 **CSV Import/Export**
 Export: download all tasks
 Import: upload CSV file
+
+**Screenshots**
+1. Calendar view
+   screenshots/Add New Task 1.png
+   
