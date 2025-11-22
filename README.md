@@ -117,7 +117,7 @@ Import: upload CSV file
 ![Filter Task](screenshots/Filter%20Task.png)
 
 ### Import Export Tasks 
-![Export and Import Task](screenshots/Export%20and%20Import%20Task.png)
+![Export and Import Task](screenshots/Export%20and%20Import%20Task%20CSV.png)
 
 
 
