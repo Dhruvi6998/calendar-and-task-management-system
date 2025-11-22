@@ -106,6 +106,6 @@ Import: upload CSV file
 
 ### 🗓️ Calendar View
 
-[![Add New Task](./Calendar%20view%20screenshots/Add%20New%20Task%201.png)](./Calendar%20view%20screenshots/Add%20New%20Task%201.png)
+[Add New Task](./screenshots/Add%20New%20Task.png)
 
    
