@@ -102,6 +102,10 @@ Export: download all tasks
 Import: upload CSV file
 
 **Screenshots**
-1. Calendar view
-   screenshots/Add New Task 1.png
+## 📸 Screenshots
+
+### 🗓️ Calendar View
+
+[![Add New Task](./Calendar%20view%20screenshots/Add%20New%20Task%201.png)](./Calendar%20view%20screenshots/Add%20New%20Task%201.png)
+
    
